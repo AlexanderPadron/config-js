@@ -1,4 +1,6 @@
-{
-  data: 'xyz',
-  nue: 'ppp'
-}
+bdd:
+  user: alex
+  pass: alex
+service:
+  name: service-dev
+  port: 8000
