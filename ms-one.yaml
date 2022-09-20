@@ -1,0 +1,6 @@
+bdd:
+  user: alex
+  pass: alex
+service:
+  name: service
+  port: 8000
