@@ -1,0 +1,15 @@
+appname: software
+appport: 6004
+appendpoint: software
+mongo:
+  database: test
+  url: mongodb+srv://admin:MjxIRsQvBZ9XM9mf@clientes.z6yil.mongodb.net/test?retryWrites=true&w=majority
+ekl:
+  login: true
+  server: http://129.151.112.60:9200
+  usr: elastic
+  pwd: nsktTwDhLN0Jsf80OiGdK3I1
+redis:
+  server: 129.151.104.23
+  port: 5921
+  pwd: JKjs4yKAcHs8FZrf4dTL
