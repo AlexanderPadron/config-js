@@ -3,4 +3,4 @@ bdd:
   pass: alex
 service:
   name: service-dev
-  port: 8000
+  port: 8001
